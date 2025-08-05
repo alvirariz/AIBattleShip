@@ -1,10 +1,10 @@
-# Battleship AI 🎯🛳️
+# Battleship AI 
 
 A retro-style C++ Battleship game built with **SFML**, featuring a ruthless AI that doesn't just guess...it *hunts you down*. Experience tactical warfare in a 90s pixel-themed grid where every move matters.
 
 ---
 
-## 💡 Features
+##  Features
 
 - Turn-based battleship gameplay with **SFML-powered 2D graphics**
 - Smart AI that **tracks, locks, and destroys** your fleet once it detects a hit
@@ -14,7 +14,7 @@ A retro-style C++ Battleship game built with **SFML**, featuring a ruthless AI t
 
 ---
 
-## 🧠 AI Logic
+##  AI Logic
 
 This isn’t random firing. The AI behaves like a cold-blooded naval assassin.
 
@@ -26,7 +26,7 @@ This isn’t random firing. The AI behaves like a cold-blooded naval assassin.
 
 ---
 
-## 🕹️ Controls
+##  Controls
 
 - `R` – Rotate the selected ship
 - **Mouse Click** – Select tile
@@ -35,7 +35,7 @@ This isn’t random firing. The AI behaves like a cold-blooded naval assassin.
 ---
 
 
-## 🛠️ How to Run
+##  How to Run
 
 ### Requirements
 
@@ -54,7 +54,7 @@ g++ -std=c++17 -o battleship main.cpp Game.cpp Player.cpp AI.cpp -lsfml-graphics
 
 ---
 
-## 📋 Mission Directive
+##  Mission Directive
 
 > Agent, a rogue admiral has vanished with a fleet of deadly warships.  
 > Your mission: track them down, outwit his forces, and stop him.  
@@ -65,7 +65,7 @@ g++ -std=c++17 -o battleship main.cpp Game.cpp Player.cpp AI.cpp -lsfml-graphics
 
 ---
 
-## 🚧 Coming Soon
+##  Coming Soon
 
 - Sound effects and 90s retro audio  
 - Difficulty levels for AI  
@@ -74,7 +74,7 @@ g++ -std=c++17 -o battleship main.cpp Game.cpp Player.cpp AI.cpp -lsfml-graphics
 
 ---
 
-## 📜 License
+## License
 
 MIT – Fork, modify, conquer.
 
@@ -83,4 +83,5 @@ MIT – Fork, modify, conquer.
 
 
 > Designed and developed by Alvira Rizwan.
+
 
